@@ -1,5 +1,7 @@
 ### <h1 align="center">Hello, I'm August! <img src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/waving-hand.gif" width="35px"></h1> 
 
+<img src="https://raw.githubusercontent.com/arwebSE/arwebSE/main/githubbanner.png"/>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/augustmr)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:augustfmr@gmail.com)
 
