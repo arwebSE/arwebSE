@@ -7,10 +7,8 @@
 
 <img width="50%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=ARWebSE&show_icons=true&theme=github_dark" />
 
-- 🔭 I’m currently working on: **applying for jobs!**
-- 🌱 I’m currently learning: **Everything related to JS frameworks!**
-- 👯 I’m looking to collaborate on: **Nothing right now. I'm busy =)**
-- 🤔 I’m looking for help with: **finding a good workplace.**
+- 🔭 I’m currently working on: **my thesis.**
+- 🌱 I’m currently learning: **everything related to CI/CD & Test Automation!**
 - 📫 How to reach me: **augustfmr@gmail.com**
 
 ## 🛠 Technologies I use the most:
