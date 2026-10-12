@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">ARWebSE</title>
+  <desc id="desc">ARWebSE. Blue gradient lettering on a white background.</desc>
+  <defs>
+    <linearGradient id="text" x1="365" y1="155" x2="915" y2="155" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#294582"/>
+      <stop offset="1" stop-color="#50ade7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(880 30) rotate(90) scale(290 520)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#50ade7" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#50ade7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientTransform="translate(250 330) rotate(-90) scale(240 420)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#294582" stop-opacity=".035"/>
+      <stop offset="1" stop-color="#294582" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="1280" height="340" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="340" rx="24" fill="#fff"/>
+    <rect width="1280" height="340" fill="url(#glow)"/>
+    <rect width="1280" height="340" fill="url(#glow2)"/>
+    <rect x=".5" y=".5" width="1279" height="339" rx="23.5" stroke="#e7edf5"/>
+    <text x="640" y="205" text-anchor="middle" fill="url(#text)" font-family="Segoe UI, Arial, sans-serif" font-size="106" font-weight="600" letter-spacing="-6">ARWebSE</text>
+  </g>
+</svg>
